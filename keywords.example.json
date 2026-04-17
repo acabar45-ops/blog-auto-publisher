@@ -1,0 +1,41 @@
+{
+  "_comment": "로컬 테스트용 예시. 실제로는 Google Sheets에 동일 구조로 입력.",
+  "_headers": ["date", "category", "keyword", "sub_keywords", "status", "url", "created_at"],
+  "rows": [
+    {
+      "date": "2026-06-16",
+      "category": "건물주 실무 가이드",
+      "keyword": "임대료 미납 대응 5단계 — 내용증명부터 명도소송까지",
+      "sub_keywords": "내용증명,명도소송,임대차보호법",
+      "status": "대기"
+    },
+    {
+      "date": "2026-06-17",
+      "category": "단기임대 전문",
+      "keyword": "강남 단기임대 수익률 계산법 (2026 최신)",
+      "sub_keywords": "수익률,계산,강남,단기임대",
+      "status": "대기"
+    },
+    {
+      "date": "2026-06-18",
+      "category": "상업 건물 관리",
+      "keyword": "근생 건물 관리비 누수 막는 3가지 체크포인트",
+      "sub_keywords": "관리비,근생,누수",
+      "status": "대기"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "하우스맨 케이스",
+      "keyword": "18개월 공실 건물을 30일 만에 만실로 만든 방법",
+      "sub_keywords": "공실,만실,케이스",
+      "status": "대기"
+    },
+    {
+      "date": "2026-06-20",
+      "category": "하우스맨 SaaS 가이드",
+      "keyword": "알림톡 자동 발송 설정 5분 튜토리얼",
+      "sub_keywords": "알림톡,자동,튜토리얼",
+      "status": "대기"
+    }
+  ]
+}
